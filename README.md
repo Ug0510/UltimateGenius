@@ -18,3 +18,5 @@
 `npm install concurrently --save-dev`
 
 ## About Project
+
+* This is an Quiz Web Application made using MERN Stack.
