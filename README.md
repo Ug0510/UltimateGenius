@@ -22,3 +22,4 @@
 * This is an Quiz Web Application made using MERN Stack.
 * This Quiz contains Student and Teacher Login Panel.
 * Teacher can generate the quiz the code in Teacher Portal after Login.
+* Teacher passes the code to Student to join that quiz.
