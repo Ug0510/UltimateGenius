@@ -20,3 +20,4 @@
 ## About Project
 
 * This is an Quiz Web Application made using MERN Stack.
+* This Quiz contains Student and Teacher Login Panel.
