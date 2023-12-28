@@ -23,3 +23,4 @@
 * This Quiz contains Student and Teacher Login Panel.
 * Teacher can generate the quiz the code in Teacher Portal after Login.
 * Teacher passes the code to Student to join that quiz.
+* Student comes to website and firstly login.
