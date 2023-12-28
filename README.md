@@ -25,4 +25,5 @@
 * Teacher passes the code to Student to join that quiz.
 * Student comes to website and firstly login.
   (If new then register).
+* Student comes to student portal and enters the quiz code given by teacher and successfully joins the quiz.
 
