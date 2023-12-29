@@ -26,4 +26,5 @@
 * Student comes to website and firstly login.
   (If new then register).
 * Student comes to student portal and enters the quiz code given by teacher and successfully joins the quiz.
+* If code is valid then the Student will be redirected to Waiting room.
 
