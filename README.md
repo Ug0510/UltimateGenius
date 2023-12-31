@@ -30,5 +30,6 @@
 * On Teacher side , the list of all student will be shown in realtime and also a start button will be there on screen.
 * Teacher will click the Start Quiz button to start the quiz.
 * Student will move from waiting room to quiz page.
+* When Quiz will end , the student will shown scoreboard.
   
 
