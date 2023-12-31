@@ -29,4 +29,6 @@
 * If code is valid then the Student will be redirected to Waiting room.
 * On Teacher side , the list of all student will be shown in realtime and also a start button will be there on screen.
 * Teacher will click the Start Quiz button to start the quiz.
+* Student will move from waiting room to quiz page.
+  
 
