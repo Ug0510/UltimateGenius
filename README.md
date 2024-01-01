@@ -19,6 +19,8 @@
 
 ## Modules in this project
 
+* Student Module
+
 ## About Project
 
 * This is an Quiz Web Application made using MERN Stack.
