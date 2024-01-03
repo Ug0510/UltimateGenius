@@ -20,6 +20,7 @@
 ## Modules in this project
 
 * Student Module
+* Teacher Module
 
 ## About Project
 
