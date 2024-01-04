@@ -1,4 +1,5 @@
 # Ultimate Genius
+-> An Interactive Quiz Web Application
 
 ## How to run 
 
@@ -37,6 +38,7 @@
 * Student will move from waiting room to quiz page.
 * When Quiz will end , the student will shown scoreboard.
 * Teacher will also be redirected to Scoreboard where all students score is visible.
+  
   
   
 
