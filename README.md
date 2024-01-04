@@ -15,7 +15,7 @@
 * reach backend folder and install modules there
 `cd .. && cd backend && npm install`
 
-*concurrently
+* concurrently
 `npm install concurrently --save-dev`
 
 ## Modules in this project
