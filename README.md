@@ -38,7 +38,11 @@
 * Student will move from waiting room to quiz page.
 * When Quiz will end , the student will shown scoreboard.
 * Teacher will also be redirected to Scoreboard where all students score is visible.
-  
+
+
+
+### For Collaboration 
+*Contact:* uditgg0510@gmail.com
   
   
 
