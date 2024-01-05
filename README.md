@@ -42,7 +42,7 @@
 
 
 ### For Collaboration 
-*Contact:* <a href="mailto:uditgg0510@gmail.com">uditgg0510@gmail.com</a>
+*Contact:* <a href="mailto:uditgg0510@gmail.com" target="_blank">uditgg0510@gmail.com</a>
   
   
 
