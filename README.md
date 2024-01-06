@@ -21,6 +21,7 @@
 ## Modules in this project
 
 * Student Module
+  -> Student Registration Page
 * Teacher Module
 
 ## About Project
