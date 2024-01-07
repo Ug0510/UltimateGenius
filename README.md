@@ -24,6 +24,8 @@
   -> Student Registration Page
   -> Student Login Page
 * Teacher Module
+  -> Teacher Registration Page
+  -> Teacher Login Page
 
 ## About Project
 
